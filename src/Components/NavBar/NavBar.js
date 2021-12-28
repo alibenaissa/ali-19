@@ -79,7 +79,7 @@ const NavBar = ({
               component="div"
               sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
             >
-              <span className="title">Void Hub</span>
+              <span className="title">star moves</span>
             </Typography>
             <AddMovie
               pickMovie={pickMovie}
